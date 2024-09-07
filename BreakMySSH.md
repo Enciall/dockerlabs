@@ -2,7 +2,7 @@
 
 ## Primero iniciamos la maquina
 
-![VirtualBox_kali_06_09_2024_17_17_23.png](BreakMySSH%2042cade04d33a4afc9c8284ed4c1871f1/f2c7a551-9f19-4400-8f3d-d2395bfa8ce7.png)
+[9b80c6d1-c8af-4df8-b084-63edd0f3747e.png](https://postimg.cc/SnwP7V56)
 
 ## Despues hacemos un PING para comprobar si tenemos conectividad
 
