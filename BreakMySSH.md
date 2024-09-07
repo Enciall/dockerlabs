@@ -2,20 +2,18 @@
 
 ## Primero iniciamos la maquina
 
-[9b80c6d1-c8af-4df8-b084-63edd0f3747e.png](https://postimg.cc/SnwP7V56)
+[![f2c7a551-9f19-4400-8f3d-d2395bfa8ce7.png](https://i.postimg.cc/25KNS7H8/f2c7a551-9f19-4400-8f3d-d2395bfa8ce7.png)](https://postimg.cc/v1fNPfFp)
 
 ## Despues hacemos un PING para comprobar si tenemos conectividad
 
-![VirtualBox_kali_06_09_2024_17_17_58.png](BreakMySSH%2042cade04d33a4afc9c8284ed4c1871f1/5698f8d3-1bee-4549-81a4-4ea045840c7e.png)
-
+[![e1d5f357-5d37-49f5-bacf-faa12348f6d7.png](https://i.postimg.cc/ZnkkrKtG/e1d5f357-5d37-49f5-bacf-faa12348f6d7.png)](https://postimg.cc/R6Tbmm0d)
 ## Despues usamos NMAP para comprobar si tiene puertos abiertos
 
-![VirtualBox_kali_06_09_2024_17_18_13.png](BreakMySSH%2042cade04d33a4afc9c8284ed4c1871f1/8103adb5-662d-4c06-a89d-f4b4c4f7ecdf.png)
-
+[![8103adb5-662d-4c06-a89d-f4b4c4f7ecdf.png](https://i.postimg.cc/mk7vVfTt/8103adb5-662d-4c06-a89d-f4b4c4f7ecdf.png)](https://postimg.cc/Lg6Q6WYp)
 ## Vemos un puerto 22 abierto con el servicio ssh version 7.7 usaremos hydra para atacar al puerto 22 con fuerza bruta
 
-![VirtualBox_kali_06_09_2024_17_19_20.png](BreakMySSH%2042cade04d33a4afc9c8284ed4c1871f1/9b80c6d1-c8af-4df8-b084-63edd0f3747e.png)
+[![5698f8d3-1bee-4549-81a4-4ea045840c7e.png](https://i.postimg.cc/qR6Vh6Yc/5698f8d3-1bee-4549-81a4-4ea045840c7e.png)](https://postimg.cc/bDPF4rqd)
 
 ## vemos que la contraseña es estrella asi que entramos con ssh
 
-![VirtualBox_kali_06_09_2024_17_19_51.png](BreakMySSH%2042cade04d33a4afc9c8284ed4c1871f1/e1d5f357-5d37-49f5-bacf-faa12348f6d7.png)
+[![9b80c6d1-c8af-4df8-b084-63edd0f3747e.png](https://i.postimg.cc/Bv6G3VBV/9b80c6d1-c8af-4df8-b084-63edd0f3747e.png)](https://postimg.cc/SnwP7V56)
