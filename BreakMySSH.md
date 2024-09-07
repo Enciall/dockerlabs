@@ -6,7 +6,6 @@
 
 ## Despues hacemos un PING para comprobar si tenemos conectividad
 
-[![e1d5f357-5d37-49f5-bacf-faa12348f6d7.png](https://i.postimg.cc/ZnkkrKtG/e1d5f357-5d37-49f5-bacf-faa12348f6d7.png)](https://postimg.cc/R6Tbmm0d)
 ## Despues usamos NMAP para comprobar si tiene puertos abiertos
 
 [![8103adb5-662d-4c06-a89d-f4b4c4f7ecdf.png](https://i.postimg.cc/mk7vVfTt/8103adb5-662d-4c06-a89d-f4b4c4f7ecdf.png)](https://postimg.cc/Lg6Q6WYp)
@@ -16,4 +15,4 @@
 
 ## vemos que la contraseña es estrella asi que entramos con ssh
 
-[![9b80c6d1-c8af-4df8-b084-63edd0f3747e.png](https://i.postimg.cc/Bv6G3VBV/9b80c6d1-c8af-4df8-b084-63edd0f3747e.png)](https://postimg.cc/SnwP7V56)
+[![e1d5f357-5d37-49f5-bacf-faa12348f6d7.png](https://i.postimg.cc/ZnkkrKtG/e1d5f357-5d37-49f5-bacf-faa12348f6d7.png)](https://postimg.cc/R6Tbmm0d)
